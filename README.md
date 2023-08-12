@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple full CRUD application with a React front-end, MySQL database, and Java back-end created using Spring Boot
+This is a simple full CRUD application with a React front-end, MySQL database, and Java back-end created using Spring Boot.
 
 ## How to Run
 
